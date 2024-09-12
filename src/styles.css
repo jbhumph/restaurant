@@ -35,3 +35,7 @@ h1 {
 .bar {
     display: flex;
 }
+
+img {
+    height: 200px;
+}
