@@ -1,4 +1,37 @@
 /* styles.css */
 body {
     background-color: #f8eee7;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    flex: auto;
+    margin: 0;
+}
+
+.page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    flex: auto;
+    width: 70%;
+    margin-top: 10px;
+}
+
+.content {
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.p1 {
+    margin-bottom: 20px;
+}
+
+.bar {
+    display: flex;
 }
